@@ -1,4 +1,8 @@
-write a line in this file`
-write anather line here
-i
+<<<<<<< HEAD
 
+=======
+Git is a version control system.
+I am learning Git.
+Git is free software
+I changed this file
+>>>>>>> feature2
