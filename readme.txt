@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 
-=======
 Git is a version control system.
 I am learning Git.
 Git is free software
 I changed this file
->>>>>>> feature2
+modified on 2019/04/28
+change on Monday 04/29
